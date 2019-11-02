@@ -48,7 +48,10 @@ footer {
     width: 200px;
 }
 
-.portfolioimage {
+.position-relative{
+    margin: 10px;
+}
+
+.col-md-4{
     position: relative;
-    margin: 20px;
 }
