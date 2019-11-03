@@ -14,7 +14,6 @@ h2 {
 }
 
 .container1 {
-    padding: 20px;
     width: 70%;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     margin-top: 3%;
@@ -56,3 +55,10 @@ footer {
 .col-md-4{
     margin: 10px;
 }
+
+
+@media only screen and (max-width: 950px) {
+    [class*="col-"] {
+      width: 100%;
+    }
+  }
