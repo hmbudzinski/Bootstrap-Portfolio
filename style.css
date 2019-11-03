@@ -19,6 +19,11 @@ h2 {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     margin-top: 3%;
     margin-bottom: 5%;
+    position: relative;
+}
+
+.row{
+    position: relative;
 }
 
 .container2{
@@ -41,17 +46,13 @@ footer {
 
 .box {
     background-color: #4aaaa5;
-    color: white;
     text-align: center;
     position: absolute;
     bottom: 10px;
     width: 200px;
-}
-
-.position-relative{
-    margin: 10px;
+    height: 30px;
 }
 
 .col-md-4{
-    position: relative;
+    margin: 10px;
 }
