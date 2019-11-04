@@ -13,4 +13,4 @@
     My page features links to my other pages, a collapsable navbar, responsive images and a responsive layout.
 
 ## Difficulties:
-    I had less difficulites creating this page than I did the first portfolio page, but the issues that I did have were harder to solve since I am so new to bootstrap. Getting my portfolio page to align correctly and my navbar to operate correctly where very difficult and I wouldn't have been able to complete it without help. 
+    I had less difficulites creating this page than I did the first portfolio page, but the issues that I did have were harder to solve since I am so new to bootstrap. Getting my portfolio page to align correctly was very difficult and I wouldn't have been able to complete it without help. I also had a lot of difficulty with getting my hamburger menu to work properly. 
