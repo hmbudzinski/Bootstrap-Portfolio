@@ -1,5 +1,5 @@
 .navbar {
-    border-bottom: solid 5px #cccccc;
+    border-bottom: solid 5px #acacac;
     font-family: 'Alegreya Sans', sans-serif;
     height: 120px;
     display: block;
@@ -9,19 +9,18 @@
 
 #navbarNav{
     position: relative;
-    text-align: center;
     width: 100%;
 }    
 
 #title{
-    color: #4aaaa5;
+    color: #4173b4;
     font-family: 'Alegreya Sans', sans-serif;
     font-size: xx-large;
     display: block;
 }
 
 h2 {
-    color: #4aaaa5;
+    color: #4173b4;
     font-family: 'Alegreya Sans', sans-serif;
 }
 
@@ -44,7 +43,7 @@ h2 {
 
 footer {
     background-color: #666666;
-    border-top: solid 5px #4aaaa5;
+    border-top: solid 5px #acacac;
     height: 50px;
     font-size: 12px;
     margin-top: 3%;
@@ -77,6 +76,11 @@ footer {
     .navbar {
         height: auto;
         font-size: 22px !important;
+    }
+
+    .navbar-toggler{
+        position: relative;
+        width: 40%;
     }
     
   }
